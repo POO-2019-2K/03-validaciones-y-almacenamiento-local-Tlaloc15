@@ -1,4 +1,4 @@
-export default class Empleado {
+export default class Paciente {
     constructor(paciente) {
         this._fConsulta = paciente.fConsulta;
         this._hora = paciente.hora;
